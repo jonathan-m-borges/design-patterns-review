@@ -1,7 +1,7 @@
 using System;
-using strategy.Domain.Behaviors;
+using strategy.Domain1.Behaviors;
 
-namespace strategy.Domain
+namespace strategy.Domain1
 {
     public class MallardDuck : Duck
     {

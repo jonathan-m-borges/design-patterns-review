@@ -1,6 +1,6 @@
 using System;
 
-namespace strategy.Domain.Behaviors
+namespace strategy.Domain1.Behaviors
 {
     public class Quack : QuackBehavior
     {

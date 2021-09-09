@@ -1,4 +1,4 @@
-namespace strategy.Domain.Behaviors
+namespace strategy.Domain1.Behaviors
 {
     public interface FlyBehavior
     {

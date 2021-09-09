@@ -1,5 +1,5 @@
 ﻿using System;
-using strategy.Domain;
+using strategy.Domain1;
 
 namespace strategy
 {
