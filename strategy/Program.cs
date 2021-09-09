@@ -9,7 +9,7 @@ namespace strategy
         static void Main(string[] args)
         {
             Ducks();
-            //Weapons();
+            Weapons();
         }
 
         static void Weapons()
